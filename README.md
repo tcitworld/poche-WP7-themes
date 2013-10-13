@@ -1,6 +1,6 @@
-# poche-themes
+# poche-themes for Windows Phone 7 Users
 
-themes created by poche users
+themes created by poche users, adapated for the Windows Phone 7 Browser (IE9).
 
 ## list of themes
 
